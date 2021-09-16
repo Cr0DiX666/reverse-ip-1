@@ -79,7 +79,7 @@ class Reverse_Ip:
      ◢◤ ◢◤ ◢◤ ◢◤ ◢◤ ◢◤ ◢◤ ◢◤ ◢◤ ◢◤
    ◢◤                            ◢◤
   ◢◤  Reverse Ip (Unlimited)    ◢◤
- ◢◤  By Zeerx7 - XpoitSec-ID   ◢◤
+ ◢◤  By RSecxXx.iD - IS666.iD  ◢◤
 ◢◤                            ◢◤
  ◢◤ ◢◤ ◢◤ ◢◤ ◢◤ ◢◤ ◢◤ ◢◤ ◢◤ ◢◤
 '''   
