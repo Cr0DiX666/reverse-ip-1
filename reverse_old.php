@@ -57,8 +57,8 @@ class pausiGans{
 echo "
 * * * * * * * * * * * * * *
 ~ Reverse IP
-~ Coded by Zeerx7(Pausi)
-~ XploitSec-ID
+~ Coded by RSecxXx(Rey)
+~ INDONESIASYNDICATE-ID
 ~ zone-xsec.com
 * * * * * * * * * * * * * *
 
